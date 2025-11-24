@@ -16,8 +16,6 @@ This repository contains daily hands-on notebooks, real-world projects, model de
 
 ├── Day120/
 
-│
-
 ├── Projects/
 
 │   ├── Project1_EndToEnd/
