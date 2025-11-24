@@ -54,7 +54,7 @@ Model Evaluation, Tuning, and Pipelines
 
 Deployment using FastAPI + Render
 
-# 🔹 Major Projects Included\
+# 🔹 Major Projects Included
 
 | Project Name                             | Description                                                |
 | ---------------------------------------- | ---------------------------------------------------------- |
